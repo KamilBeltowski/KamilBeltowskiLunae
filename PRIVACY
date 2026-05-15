@@ -1,0 +1,28 @@
+Polityka prywatności
+Obowiązuje od momentu korzystania z aplikacji Lunae w tej wersji.
+
+1. Administrator danych
+Aplikacja działa wyłącznie na Twoim urządzeniu. Nie prowadzimy centralnej bazy użytkowników ani kont w chmurze w ramach tej wersji aplikacji — Ty jesteś jedynym dysponentem wpisów na swoim telefonie lub tablecie.
+
+2. Jakie dane są zbierane
+Wszystkie informacje, które widzisz w aplikacji (m.in. nick, oznaczenia cyklu, objawy, nawodnienie, preferencje przypomnień) są zapisywane lokalnie w pamięci urządzenia (np. przez mechanizm AsyncStorage). Nie wysyłamy ich automatycznie na nasze serwery, bo w tej konfiguracji aplikacji taki backend nie jest używany do przechowywania Twoich wpisów zdrowotnych.
+
+3. Udostępnianie danych
+Dane z aplikacji nie są przez nas sprzedawane, wynajmowane ani udostępniane podmiotom trzecim w celach marketingowych. Nic nie jest „udostępniane” w sensie wysyłki kopii Twojego dziennika do nas — pozostaje na urządzeniu, dopóki Ty go nie usuniesz (np. odinstalowaniem aplikacji lub wyczyszczeniem danych aplikacji w ustawieniach systemu).
+
+4. Powiadomienia
+Lokalne przypomnienia (jeśli je włączysz) są obsługiwane przez system operacyjny na podstawie harmonogramu wygenerowanego w aplikacji. Treść jest ogólna; nie wysyłamy Twoich wpisów objawów ani wody na zewnątrz w celu wyświetlenia powiadomienia.
+
+5. Bezpieczeństwo i kopie zapasowe
+Ochrona danych zależy także od zabezpieczeń Twojego urządzenia (kod blokady, kopie zapasowe telefonu w chmurze producenta itd.). Jeśli włączysz kopie zapasowe całego telefonu u dostawcy systemu, dane aplikacji mogą znaleźć się w takiej kopii zgodnie z polityką tego dostawcy — to jest poza kontrolą samej aplikacji Lunae.
+
+6. Zmiany
+Przy istotnej zmianie sposobu działania aplikacji (np. dodaniu synchronizacji z internetem) zaktualizujemy ten opis w aplikacji. Korzystanie po zmianie oznacza zapoznanie się z nową wersją.
+
+7. Kontakt
+Pytania dotyczące prywatności w kontekście tej wersji aplikacji kieruj do osoby odpowiedzialnej za wdrożenie projektu (np. autora repozytorium) — w modelu wyłącznie lokalnym nie przetwarzamy Twoich wpisów po stronie serwera właściciela aplikacji. mail lunae.support@gmail.com
+
+8. Podziękowanie i życzenia
+Dziękujemy, że jesteś z nami w Lunae. Zależy nam na Twoim spokoju: Twoje dane zostają z Tobą, a Ty decydujesz, co zapisujesz, kiedy wracasz do wpisów i czy w ogóle chcesz przypomnienia. Mamy nadzieję, że kalendarz, dziennik objawów i śledzenie wody pomogą Ci lepiej rozumieć swój rytm — bez presji i bez „telemetrii” w tle.
+
+Życzymy spokojnych dni, dobrego snu i takiej opieki nad sobą, na jaką masz ochotę. Jeśli Lunae choć trochę ułatwi Ci codzienność albo da poczucie kontroli, to dla nas powód do radości. Miłego, bezpiecznego korzystania z aplikacji Lunae — z pełnym szacunkiem dla Twojej prywatności i Twojego tempa.
